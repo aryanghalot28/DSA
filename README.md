@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
