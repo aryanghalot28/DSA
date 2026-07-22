@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/aryanghalot28/DSA/tree/master/0278-first-bad-version) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aryanghalot28/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
