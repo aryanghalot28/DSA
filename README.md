@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryanghalot28/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+| [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 ## String
 |  |
 | ------- |
