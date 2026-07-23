@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
