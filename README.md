@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aryanghalot28/DSA/tree/master/0278-first-bad-version) |
 ## Math
 |  |
@@ -78,4 +80,12 @@
 | [0039-combination-sum](https://github.com/aryanghalot28/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanghalot28/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
