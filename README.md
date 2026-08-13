@@ -24,6 +24,7 @@
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aryanghalot28/DSA/tree/master/0050-powx-n) |
+| [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 ## String
 |  |
