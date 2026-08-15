@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/aryanghalot28/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanghalot28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,4 +97,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
