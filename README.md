@@ -23,6 +23,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanghalot28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanghalot28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Prefix Sum
 |  |
 | ------- |
