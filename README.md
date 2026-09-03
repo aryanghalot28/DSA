@@ -60,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanghalot28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
 |  |
@@ -101,4 +102,8 @@
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
