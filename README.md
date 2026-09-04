@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -105,5 +106,10 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
