@@ -107,6 +107,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -115,4 +116,12 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
