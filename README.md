@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aryanghalot28/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanghalot28/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
@@ -114,6 +118,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
 ## Design
