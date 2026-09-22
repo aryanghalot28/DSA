@@ -17,6 +17,7 @@
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/aryanghalot28/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/aryanghalot28/DSA/tree/master/0735-asteroid-collision) |
 ## Interactive
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aryanghalot28/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aryanghalot28/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/aryanghalot28/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
