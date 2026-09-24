@@ -66,6 +66,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanghalot28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
+| [0402-remove-k-digits](https://github.com/aryanghalot28/DSA/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
@@ -117,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanghalot28/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/aryanghalot28/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryanghalot28/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aryanghalot28/DSA/tree/master/0735-asteroid-collision) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/aryanghalot28/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryanghalot28/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
@@ -139,4 +142,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aryanghalot28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanghalot28/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/aryanghalot28/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
