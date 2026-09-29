@@ -21,6 +21,7 @@
 | [0739-daily-temperatures](https://github.com/aryanghalot28/DSA/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanghalot28/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanghalot28/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Prefix Sum
 |  |
@@ -112,6 +114,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aryanghalot28/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanghalot28/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanghalot28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanghalot28/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
