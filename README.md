@@ -93,6 +93,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aryanghalot28/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0039-combination-sum](https://github.com/aryanghalot28/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanghalot28/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aryanghalot28/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aryanghalot28/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/aryanghalot28/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanghalot28/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanghalot28/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aryanghalot28/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/aryanghalot28/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanghalot28/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanghalot28/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -203,4 +207,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aryanghalot28/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aryanghalot28/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
