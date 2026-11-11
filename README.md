@@ -12,6 +12,7 @@
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/aryanghalot28/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/aryanghalot28/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryanghalot28/DSA/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aryanghalot28/DSA/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/aryanghalot28/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/aryanghalot28/DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 ## String
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanghalot28/DSA/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/aryanghalot28/DSA/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
