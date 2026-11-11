@@ -67,6 +67,7 @@
 | [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 | [0492-construct-the-rectangle](https://github.com/aryanghalot28/DSA/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/aryanghalot28/DSA/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0022-generate-parentheses](https://github.com/aryanghalot28/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aryanghalot28/DSA/tree/master/0043-multiply-strings) |
 | [0402-remove-k-digits](https://github.com/aryanghalot28/DSA/tree/master/0402-remove-k-digits) |
+| [0504-base-7](https://github.com/aryanghalot28/DSA/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanghalot28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/aryanghalot28/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
