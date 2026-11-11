@@ -55,6 +55,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aryanghalot28/DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/aryanghalot28/DSA/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0050-powx-n](https://github.com/aryanghalot28/DSA/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/aryanghalot28/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aryanghalot28/DSA/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/aryanghalot28/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
 ## String
