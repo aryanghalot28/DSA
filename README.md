@@ -66,6 +66,7 @@
 | [0367-valid-perfect-square](https://github.com/aryanghalot28/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/aryanghalot28/DSA/tree/master/0390-elimination-game) |
+| [0492-construct-the-rectangle](https://github.com/aryanghalot28/DSA/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
