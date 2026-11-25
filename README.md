@@ -42,6 +42,7 @@
 | [0090-subsets-ii](https://github.com/aryanghalot28/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanghalot28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryanghalot28/DSA/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanghalot28/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/aryanghalot28/DSA/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanghalot28/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanghalot28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanghalot28/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/aryanghalot28/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/aryanghalot28/DSA/tree/master/0367-valid-perfect-square) |
 ## Math
@@ -197,6 +199,7 @@
 | [0112-path-sum](https://github.com/aryanghalot28/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanghalot28/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aryanghalot28/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryanghalot28/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryanghalot28/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -238,6 +241,7 @@
 | [0112-path-sum](https://github.com/aryanghalot28/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanghalot28/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanghalot28/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aryanghalot28/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryanghalot28/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryanghalot28/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
